@@ -1,18 +1,3 @@
-<p align="center">
- <a target="_blank" href="https://gitee.com/fuyang_lipengjun/platform/blob/master/LICENSE"><img src="https://img.shields.io/github/license/lipengjun92/platform-wxshop"/></a>
- <a href='https://gitee.com/fuyang_lipengjun/platform/stargazers'><img src='https://gitee.com/fuyang_lipengjun/platform/badge/star.svg?theme=gvp' alt='star'/></a>
- <a href='https://gitee.com/fuyang_lipengjun/platform/members'><img src='https://gitee.com/fuyang_lipengjun/platform/badge/fork.svg?theme=gvp' alt='fork'/></a>
- <a target="_blank" href="https://gitee.com/fuyang_lipengjun/platform/contributors?ref=master"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgitee.com%2Ffuyang_lipengjun%2Fplatform%2Fcontributors_count%3Fref%3Dmaster&query=contributors_count&label=Contributors&color=green"/></a>
- <a target="_blank" href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" title="PRs Welcome"></a>
-</p>
-<p align="center">
- <img src="https://img.shields.io/github/languages/count/lipengjun92/platform-wxshop?color=red"/>
- <img src="https://img.shields.io/badge/Java-11-blue.svg"/>
- <img src="https://img.shields.io/badge/SpringMVC-4.3.30.RELEASE-blue.svg"/>
- <img src="https://img.shields.io/badge/MyBatisPlus-3.5.3-blue.svg"/>
- <img src="https://img.shields.io/badge/weixin%20java-4.5.0-blue.svg"/>
- <img src="https://img.shields.io/badge/MySQL-8.0-blue.svg"/>
-</p>
 
 ## 前后端全部开源微信小程序商城（Java + uniapp）
 
